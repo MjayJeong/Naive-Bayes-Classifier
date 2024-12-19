@@ -24,6 +24,6 @@ The classifier is trained to identify positive and negative sentiments based on 
 
 ## How to Execute
 
-First of all, I saved the stopwords word in a txt file. It's the way that the txt file is fetched from the code.<br>
-And the test.csv and train.csv files are fetched as well.<br>
+First of all, I saved the stopwords word in a txt file from this site (https://www.kaggle.com/datasets/rowhitswami/stopwords)<br>
+It's the way that the txt file is fetched from the code. And the test.csv and train.csv files are fetched as well.<br>
 The required library is numpy, matplotlib.
